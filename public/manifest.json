@@ -1,0 +1,13 @@
+{
+    "name": "豆瓣APP_PWA",
+    "short_name": "豆瓣APP",
+    "background_color": "red",
+    "theme_color": "yellow",
+    "display": "standalone",
+    "icons": [{
+        "src": "image/timg.jpeg",
+        "sizes": "114x114",
+        "type": "image/jpeg"
+    }]
+
+}
